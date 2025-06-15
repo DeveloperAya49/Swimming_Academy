@@ -13,7 +13,7 @@ hr {
 }
 
 #header {
-  background-image: url("photos/images.jpeg");
+  background-image: url("images.jpeg");
   background-size: cover;
   background-position: center;
   height: 400px;
